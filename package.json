@@ -1,0 +1,8 @@
+{
+  "name": "com.sknowly.tools",
+  "version": "1.0.0",
+  "displayName": "Project Setup",
+  "description": "This package creates a root directory called _Project with child directories, these include:\n- Animations\n- Art\n- Audio\n- Editor\n- Prefabs\n- Scenes\n- Scriptable Objects\n- Scripts\nYou can use these in any way you like these are just the directories I use when setting up and brand new project.",
+  "author": "Sknowly",
+  "hideInEditor": false
+}
